@@ -1,0 +1,23 @@
+
+CUDA_VISIBLE_DEVICES=0 torchrun --nnodes=1 --nproc_per_node 1 --master_port 29514 \
+    -m opensora.sample.sample \
+    --model_path "debug/checkpoint-7680/model" \
+    --version v1_3 \
+    --num_frames 93 \
+    --height 352 \
+    --width 640 \
+    --cache_dir "../cache_dir" \
+    --text_encoder_name_1 "google/mt5-xxl" \
+    --text_prompt "examples/sora.txt" \
+    --ae WFVAEModel_D8_4x8x8 \
+    --ae_path "Open-Sora-Plan-v1.3.0/vae" \
+    --save_img_path "./train_1_3_nomotion_fps18" \
+    --fps 18 \
+    --guidance_scale 7.5 \
+    --num_sampling_steps 100 \
+    --max_sequence_length 512 \
+    --sample_method EulerAncestralDiscrete \
+    --seed 1234 \
+    --num_samples_per_prompt 1 \
+    --rescale_betas_zero_snr \
+    --prediction_type "v_prediction" 

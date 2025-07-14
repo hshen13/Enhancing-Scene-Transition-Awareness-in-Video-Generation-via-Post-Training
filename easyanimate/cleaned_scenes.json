@@ -1,0 +1,344 @@
+[
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/x2SOV_OMl4A/x2SOV_OMl4A_110-120.mp4",
+    "caption": "A man and woman sitting at a table on the beach a woman sitting at a table with a drink",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/x2SOV_OMl4A_110-120/x2SOV_OMl4A_110-120.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/x2SOV_OMl4A_110-120"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/wlmvECdZ59o/wlmvECdZ59o_54-64.mp4",
+    "caption": "A group of tents are set up in the woods a bird flying over the water at sunset",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/wlmvECdZ59o_54-64/wlmvECdZ59o_54-64.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/wlmvECdZ59o_54-64"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/x2SOV_OMl4A/x2SOV_OMl4A_59-69.mp4",
+    "caption": "A man and woman sitting at a table with drinks a woman in a bikini is standing on the beach",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/x2SOV_OMl4A_59-69/x2SOV_OMl4A_59-69.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/x2SOV_OMl4A_59-69"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/xo4Gw4q4eVk/xo4Gw4q4eVk_380-390.mp4",
+    "caption": "A girl with long hair and green eyes stands in front of a tree a painting of a forest with trees and grass",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/xo4Gw4q4eVk_380-390/xo4Gw4q4eVk_380-390.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/xo4Gw4q4eVk_380-390"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/x2SOV_OMl4A/x2SOV_OMl4A_0-6.mp4",
+    "caption": "A boat is in the water near a rocky mountain a woman sitting at a table with a drink",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/x2SOV_OMl4A_0-6/x2SOV_OMl4A_0-6.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/x2SOV_OMl4A_0-6"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/x2SOV_OMl4A/x2SOV_OMl4A_32-42.mp4",
+    "caption": "A man and woman sitting at a table with drinks a man and woman sitting at a table on the beach",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/x2SOV_OMl4A_32-42/x2SOV_OMl4A_32-42.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/x2SOV_OMl4A_32-42"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/x2SOV_OMl4A/x2SOV_OMl4A_112-122.mp4",
+    "caption": "A man and woman sitting at a table on the beach a woman sitting at a table with a drink",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/x2SOV_OMl4A_112-122/x2SOV_OMl4A_112-122.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/x2SOV_OMl4A_112-122"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/x2SOV_OMl4A/x2SOV_OMl4A_0-9.mp4",
+    "caption": "A boat is in the water near a rocky mountain a woman sitting at a table with a drink",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/x2SOV_OMl4A_0-9/x2SOV_OMl4A_0-9.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/x2SOV_OMl4A_0-9"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/x2SOV_OMl4A/x2SOV_OMl4A_99-109.mp4",
+    "caption": "A man and woman sitting at a table by the water a woman in a bikini sitting on a beach",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/x2SOV_OMl4A_99-109/x2SOV_OMl4A_99-109.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/x2SOV_OMl4A_99-109"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/xo4Gw4q4eVk/xo4Gw4q4eVk_413-423.mp4",
+    "caption": "A yellow and black bird flying through a blue sky the girls of the twilight",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/xo4Gw4q4eVk_413-423/xo4Gw4q4eVk_413-423.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/xo4Gw4q4eVk_413-423"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/wZJtnBNql9U/wZJtnBNql9U_62-72.mp4",
+    "caption": "A little girl in a wheelchair with a toy a doll sitting in a chair next to a box",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/wZJtnBNql9U_62-72/wZJtnBNql9U_62-72.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/wZJtnBNql9U_62-72"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/y7Vy0N6RnCA/y7Vy0N6RnCA_60-70.mp4",
+    "caption": "A group of women holding signs in front of a crowd a man and woman are standing in front of a microphone",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/y7Vy0N6RnCA_60-70/y7Vy0N6RnCA_60-70.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/y7Vy0N6RnCA_60-70"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/x3iLXRJZBu8/x3iLXRJZBu8_42-52.mp4",
+    "caption": "A tall tower with a clock on top a man is putting his ballot in the ballot box",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/x3iLXRJZBu8_42-52/x3iLXRJZBu8_42-52.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/x3iLXRJZBu8_42-52"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/y8IMKAeYkBg/y8IMKAeYkBg_52-62.mp4",
+    "caption": "A man in a suit and tie is talking to a woman a man in a suit and tie is talking to another man in a suit",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/y8IMKAeYkBg_52-62/y8IMKAeYkBg_52-62.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/y8IMKAeYkBg_52-62"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/xo4Gw4q4eVk/xo4Gw4q4eVk_40-50.mp4",
+    "caption": "Get that superheroie by the - girl file file for you png file for you my little pony",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/xo4Gw4q4eVk_40-50/xo4Gw4q4eVk_40-50.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/xo4Gw4q4eVk_40-50"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/wR7J_IHHvL8/wR7J_IHHvL8_143-153.mp4",
+    "caption": "A woman in a black dress and glasses is on the news a woman sitting on a couch in front of a tv screen",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/wR7J_IHHvL8_143-153/wR7J_IHHvL8_143-153.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/wR7J_IHHvL8_143-153"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/x2SOV_OMl4A/x2SOV_OMl4A_43-53.mp4",
+    "caption": "A woman in a bikini is talking to a man a man and woman sitting at a table with drinks",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/x2SOV_OMl4A_43-53/x2SOV_OMl4A_43-53.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/x2SOV_OMl4A_43-53"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/wvqes25qeL0/wvqes25qeL0_41-51.mp4",
+    "caption": "A bunch of bottles of liquor on a shelf a man is standing at the bar",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/wvqes25qeL0_41-51/wvqes25qeL0_41-51.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/wvqes25qeL0_41-51"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/xiAfrX7zLoU/xiAfrX7zLoU_78-88.mp4",
+    "caption": "A close up of a camera with a pen on it a man standing in front of a motorcycle",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/xiAfrX7zLoU_78-88/xiAfrX7zLoU_78-88.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/xiAfrX7zLoU_78-88"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/wovBYbLI-Kg/wovBYbLI-Kg_93-103.mp4",
+    "caption": "A person holding a white card with a black and white pattern a man is holding a cell phone",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/wovBYbLI-Kg_93-103/wovBYbLI-Kg_93-103.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/wovBYbLI-Kg_93-103"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/wZJtnBNql9U/wZJtnBNql9U_119-129.mp4",
+    "caption": "A doll is standing on a bed a little girl is putting a gift box",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/wZJtnBNql9U_119-129/wZJtnBNql9U_119-129.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/wZJtnBNql9U_119-129"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/xwfujrinp20/xwfujrinp20_174-184.mp4",
+    "caption": "Blur of a person walking a purple vase with a white flower on it",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/xwfujrinp20_174-184/xwfujrinp20_174-184.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/xwfujrinp20_174-184"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/yJDNa_AjLIM/yJDNa_AjLIM_107-117.mp4",
+    "caption": "A group of people are gathered around a tree a cat is standing in the dark",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/yJDNa_AjLIM_107-117/yJDNa_AjLIM_107-117.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/yJDNa_AjLIM_107-117"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/wR7J_IHHvL8/wR7J_IHHvL8_76-86.mp4",
+    "caption": "A woman is sitting down on the news two women sitting on a couch talking to each other women",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/wR7J_IHHvL8_76-86/wR7J_IHHvL8_76-86.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/wR7J_IHHvL8_76-86"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/y7Vy0N6RnCA/y7Vy0N6RnCA_59-69.mp4",
+    "caption": "A group of people walking around a street a woman walking down a street with a blue jacket",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/y7Vy0N6RnCA_59-69/y7Vy0N6RnCA_59-69.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/y7Vy0N6RnCA_59-69"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/xiAfrX7zLoU/xiAfrX7zLoU_72-82.mp4",
+    "caption": "A man in a blue shirt is standing next to a motorcycle a close up of a cell phone",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/xiAfrX7zLoU_72-82/xiAfrX7zLoU_72-82.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/xiAfrX7zLoU_72-82"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/wz8IbxohU6Q/wz8IbxohU6Q_96-106.mp4",
+    "caption": "A person is putting a bag of food into a box a person is putting food into a container",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/wz8IbxohU6Q_96-106/wz8IbxohU6Q_96-106.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/wz8IbxohU6Q_96-106"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/xlkL-f1JVXc/xlkL-f1JVXc_236-246.mp4",
+    "caption": "A person walking in the snow near a fence a black background with a white and red flower",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/xlkL-f1JVXc_236-246/xlkL-f1JVXc_236-246.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/xlkL-f1JVXc_236-246"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/wlmvECdZ59o/wlmvECdZ59o_0-9.mp4",
+    "caption": "A white plate with the words news brief on it a woman standing in front of a brick wall",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/wlmvECdZ59o_0-9/wlmvECdZ59o_0-9.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/wlmvECdZ59o_0-9"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/xhENTV9O5DU/xhENTV9O5DU_93-103.mp4",
+    "caption": "A man in a hat and a baseball cap police investigates a man who was shot in the back of a car in the river",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/xhENTV9O5DU_93-103/xhENTV9O5DU_93-103.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/xhENTV9O5DU_93-103"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/x91CoMClLZI/x91CoMClLZI_282-292.mp4",
+    "caption": "A white microwave oven a white bowl with a spoon and a cup",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/x91CoMClLZI_282-292/x91CoMClLZI_282-292.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/x91CoMClLZI_282-292"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/x91CoMClLZI/x91CoMClLZI_257-267.mp4",
+    "caption": "A white pot and a silver spoon on a table a white crocked pot",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/x91CoMClLZI_257-267/x91CoMClLZI_257-267.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/x91CoMClLZI_257-267"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/wz8IbxohU6Q/wz8IbxohU6Q_128-138.mp4",
+    "caption": "A bunch of books on a table a table with a bunch of boxes of food",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/wz8IbxohU6Q_128-138/wz8IbxohU6Q_128-138.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/wz8IbxohU6Q_128-138"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/y3HzBfbZbU4/y3HzBfbZbU4_398-408.mp4",
+    "caption": "The adobe file in adobe a computer screen with a green background",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/y3HzBfbZbU4_398-408/y3HzBfbZbU4_398-408.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/y3HzBfbZbU4_398-408"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/wca9Z3EOe38/wca9Z3EOe38_21-31.mp4",
+    "caption": "A table with bowls of food and a bowl of food ingredients for making a cake",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/wca9Z3EOe38_21-31/wca9Z3EOe38_21-31.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/wca9Z3EOe38_21-31"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/x91CoMClLZI/x91CoMClLZI_343-353.mp4",
+    "caption": "A bowl filled with food sitting on top of a table a white cup with a spoon in it",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/x91CoMClLZI_343-353/x91CoMClLZI_343-353.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/x91CoMClLZI_343-353"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/wz8IbxohU6Q/wz8IbxohU6Q_114-124.mp4",
+    "caption": "A bunch of plastic bags sitting on top of a table a pile of plastic bags",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/wz8IbxohU6Q_114-124/wz8IbxohU6Q_114-124.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/wz8IbxohU6Q_114-124"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/wz8IbxohU6Q/wz8IbxohU6Q_116-126.mp4",
+    "caption": "A bunch of plastic bags sitting on top of a table a pile of plastic bags",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/wz8IbxohU6Q_116-126/wz8IbxohU6Q_116-126.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/wz8IbxohU6Q_116-126"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/wZJtnBNql9U/wZJtnBNql9U_20-30.mp4",
+    "caption": "Two dolls are sitting in a hospital bed two dolls sitting on a chair",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/wZJtnBNql9U_20-30/wZJtnBNql9U_20-30.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/wZJtnBNql9U_20-30"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/wZJtnBNql9U/wZJtnBNql9U_27-37.mp4",
+    "caption": "A doll is sitting on a chair a doll with glasses on sitting in a chair",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/wZJtnBNql9U_27-37/wZJtnBNql9U_27-37.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/wZJtnBNql9U_27-37"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/wlmvECdZ59o/wlmvECdZ59o_88-98.mp4",
+    "caption": "A flooded street in the suburbs of detroit, michigan a dog is standing in the middle of a flooded street",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/wlmvECdZ59o_88-98/wlmvECdZ59o_88-98.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/wlmvECdZ59o_88-98"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/x91CoMClLZI/x91CoMClLZI_24-34.mp4",
+    "caption": "A small white mouse is sitting on the floor a small dog is sitting on the floor",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/x91CoMClLZI_24-34/x91CoMClLZI_24-34.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/x91CoMClLZI_24-34"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/x91CoMClLZI/x91CoMClLZI_21-31.mp4",
+    "caption": "A cat is sitting on the floor next to a bottle of liquid a small white mouse",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/x91CoMClLZI_21-31/x91CoMClLZI_21-31.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/x91CoMClLZI_21-31"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/x3nelHFZfFA/x3nelHFZfFA_153-163.mp4",
+    "caption": "A baseball player is being hit by a umpire a baseball player is about to catch the ball",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/x3nelHFZfFA_153-163/x3nelHFZfFA_153-163.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/x3nelHFZfFA_153-163"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/xo4Gw4q4eVk/xo4Gw4q4eVk_291-301.mp4",
+    "caption": "A cartoon character holding a white cat a cartoon character with a blue background",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/xo4Gw4q4eVk_291-301/xo4Gw4q4eVk_291-301.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/xo4Gw4q4eVk_291-301"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/xo4Gw4q4eVk/xo4Gw4q4eVk_290-300.mp4",
+    "caption": "A cartoon character holding a white cat a cartoon character with a blue background",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/xo4Gw4q4eVk_290-300/xo4Gw4q4eVk_290-300.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/xo4Gw4q4eVk_290-300"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/x91CoMClLZI/x91CoMClLZI_20-30.mp4",
+    "caption": "A cat is sitting on the floor next to a bottle of liquid a cat is sitting on the floor next to a bottle of sauce",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/x91CoMClLZI_20-30/x91CoMClLZI_20-30.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/x91CoMClLZI_20-30"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/xlkL-f1JVXc/xlkL-f1JVXc_259-269.mp4",
+    "caption": "A snow covered parking lot a black background with a white and red flower",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/xlkL-f1JVXc_259-269/xlkL-f1JVXc_259-269.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/xlkL-f1JVXc_259-269"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/xlkL-f1JVXc/xlkL-f1JVXc_273-283.mp4",
+    "caption": "A snow covered parking lot with a sign a black background with a white and red flower",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/xlkL-f1JVXc_273-283/xlkL-f1JVXc_273-283.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/xlkL-f1JVXc_273-283"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/xhENTV9O5DU/xhENTV9O5DU_55-65.mp4",
+    "caption": "A flooded street in phoenix, arizona a police tape is taped around a wall that was covered with graffiti",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/xhENTV9O5DU_55-65/xhENTV9O5DU_55-65.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/xhENTV9O5DU_55-65"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/xlkL-f1JVXc/xlkL-f1JVXc_343-353.mp4",
+    "caption": "A snowy scene of a baseball field a black background with a white and red flower",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/xlkL-f1JVXc_343-353/xlkL-f1JVXc_343-353.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/xlkL-f1JVXc_343-353"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/xlkL-f1JVXc/xlkL-f1JVXc_281-291.mp4",
+    "caption": "A snowy scene in the middle of a city a black background with a white and red flower",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/xlkL-f1JVXc_281-291/xlkL-f1JVXc_281-291.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/xlkL-f1JVXc_281-291"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/yJDNa_AjLIM/yJDNa_AjLIM_80-90.mp4",
+    "caption": "A door with a sign on it that says,'100 % ' a tree in front of a building",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/yJDNa_AjLIM_80-90/yJDNa_AjLIM_80-90.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/yJDNa_AjLIM_80-90"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/xhENTV9O5DU/xhENTV9O5DU_57-67.mp4",
+    "caption": "A flooded street in phoenix, arizona a graffiti wall is seen in this und - painted photo",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/xhENTV9O5DU_57-67/xhENTV9O5DU_57-67.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/xhENTV9O5DU_57-67"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/xlkL-f1JVXc/xlkL-f1JVXc_316-326.mp4",
+    "caption": "A snow covered parking lot a black background with a white and red flower",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/xlkL-f1JVXc_316-326/xlkL-f1JVXc_316-326.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/xlkL-f1JVXc_316-326"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/x3iLXRJZBu8/x3iLXRJZBu8_76-86.mp4",
+    "caption": "Two women sitting on a bench in front of a building a large building with a lot of plants",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/x3iLXRJZBu8_76-86/x3iLXRJZBu8_76-86.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/x3iLXRJZBu8_76-86"
+  },
+  {
+    "video_path": "/content/Colab_Video_Processing/output_clips/xQagonM94Hc/xQagonM94Hc_173-183.mp4",
+    "caption": "A view of a tree from a window a view of a balcony with trees and a fence",
+    "json_path": "/content/Colab_Video_Processing/video_caption/segments/xQagonM94Hc_173-183/xQagonM94Hc_173-183.json",
+    "output_folder": "/content/Colab_Video_Processing/video_caption/segments/xQagonM94Hc_173-183"
+  }
+]
